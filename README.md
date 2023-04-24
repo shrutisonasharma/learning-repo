@@ -1,3 +1,3 @@
 # Lesson 1
 
-Creating 1st repo
+Creating my 1st repo.
